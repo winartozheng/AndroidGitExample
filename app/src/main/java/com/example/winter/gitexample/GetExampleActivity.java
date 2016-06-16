@@ -10,5 +10,6 @@ public class GetExampleActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_get_example);
         //
+        //===
     }
 }
